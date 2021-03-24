@@ -28,7 +28,7 @@ Web application implementing the MERN stack (MongoDB - Express - React - Node) /
 * Frameworks: [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/).
 * APIs: [Insomnia](https://insomnia.rest/).
 * Database: [MongoDB](https://www.mongodb.com/).
-* Cloud service: [???]().
+* Cloud services: [Heroku](https://www.heroku.com/), [MongoDB Atlas](https://www.mongodb.com/cloud/atlas).
 
 ## How to run the project (front-end)
 * Open the terminal.
